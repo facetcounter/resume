@@ -1,21 +1,16 @@
 # Michael Hitchcock 
 ### 13321 SE Linden Lane, Milwaukie OR 97222<br/>503.997.0552 / mdhitchcock@gmail.com
 
-Full stack developer with deep roots in each part of the stack. 
+I've been in this business for thirty years and I still write code every day and I still love it. I have three patents and I've defended them in court. I hired in and ran a twenty person development team. I've refactored code tied to a schema with a dozen tables, hundreds of fields and hundreds of thousands of records.  I'm the guy that found that bug that brought our app to its knees. I've been a sysadmin through setting up and configuring a (borg) until it became (the borg) and love the (mention cloud technologies) for that reason.
 
-My 25+ years of computer-related work has been a progression through three realms: the first four years I was a UNIX sysadmin and taught myself enough to become network manager for a small tech shop. The next twelve years I worked on 'back-end' server-side programming and built a patented forms engine out of Apache, Perl, Tomcat, Java servlets, and DB2, capable of hosting thousands of college applications and other forms.
-
-For the last nine and a half years I explored the 'front-end' client-side world of well-crafted dynamic web pages and consuming web services, by mastering Javascript, learning CSS and HTML5, and more recently helping build a single page app with Angular2 and Typescript. 
-
-I remain keenly interested in continuing to learn this space and tackling the next challenge.
+I care about user experience and the technology that goes into it.  Love overrides hate in my love/hate relationship with end users.
 
 # Skills
 
-* Expert: Javascript, HTML, DOM, JSON, vi/vim, \*nix, git, regexes
-* Solid: Node, express, grunt and gulp, jQuery, SQL, MongoDB and mongoose, CSS, shell scripting, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, AEM (Adobe Experience Manager, aka CQ), BitBucket, GitHub
+* Expert: git, Node, express, grunt and gulp, AEM,  SQL and Mongo, CSS and sass, shell scripting and unix config, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, GitHub , XHTML, regexes 
 * Intermediate: Typescript, Angular2, Less, SASS, ES6, responsive pages, Puppet
 * Currently investigating: React, Redux, AWS
-* Formerly Expert: Perl, Apache, mod_perl, XML, Java, Tomcat, Struts, bugzilla, Redhat, CVS
+* Formerly Expert: Perl, Apache, XML and LaTeX, bare iron servers and the aesthetic arrangement of patch cables.
 
 # Work History
 
