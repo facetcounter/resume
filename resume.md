@@ -7,9 +7,13 @@ I care about user experience and the technology that goes into it.  Love overrid
 
 # Skills
 
-* Expert: git, Node, express, grunt and gulp, AEM,  SQL and Mongo, CSS and sass, shell scripting and unix config, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, Jenkins, GitHub , XHTML, regexes 
-* Intermediate: Typescript, Angular2, Less, SASS, ES6, responsive pages, Puppet
-* Currently investigating: React, Redux, AWS
+Primary:
+* Coding: Functional Programming, Javascript, Node, Perl, Ruby, shell
+* DevOps: git, grunt and gulp, jenkins, mocha, jest, puppet, AWS, puppet
+* Process: Agile, TDD, XP, gitflow and githubflow
+
+Secondary
+* express, Typescript, Angular2, Less, SASS, AEM,  SQL and Mongo, CSS and sass, shell scripting and unix config, REST, XP/Agile/Scrum, jasmine/mocha, Chrome DevTools, XHTML, regexes 
 * Formerly Expert: Perl, Apache, XML and LaTeX, bare iron servers and the aesthetic arrangement of patch cables.
 
 # Work History
